@@ -1,0 +1,22 @@
+# Describes the format for available user_access_control services
+
+turn_on:
+  name: Turn on
+  description: Turn a user_access_control on
+  target:
+    entity:
+      domain: user_access_control
+
+turn_off:
+  name: Turn off
+  description: Turn a user_access_control off
+  target:
+    entity:
+      domain: user_access_control
+
+toggle:
+  name: Toggle
+  description: Toggles a user_access_control state
+  target:
+    entity:
+      domain: user_access_control

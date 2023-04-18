@@ -1,0 +1,9 @@
+{
+  "domain": "lockuser",
+  "name": "Lock User",
+  "documentation": "https://github.com/yourhandle/home-assistant-user-access-control",
+  "dependencies": [],
+  "codeowners": ["@yourhandle"],
+  "requirements": [],
+  "version": "0.1.0"
+}
